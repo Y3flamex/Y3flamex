@@ -1,2 +1,2 @@
 # im bow
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Y3flamex)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Y3flamex&&show_icons=true&theme=dark
